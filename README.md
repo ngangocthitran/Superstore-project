@@ -1,0 +1,1 @@
+Analyzed sales data from SuperStore using SQL and Power BI to identify declining revenue in specific regions. Proposed targeted promotional strategies which were accepted by the project lead for further A/B testing.
